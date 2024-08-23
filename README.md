@@ -1,2 +1,4 @@
 ### BMI CALCULATOR APP
-![alt text](<BMI CALCULATOR.png>)
+<div align="center">
+	<img src="BMI CALCULATOR.png">
+</div>
